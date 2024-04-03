@@ -7,7 +7,7 @@ require (
 	github.com/consensys/gnark-crypto v0.12.1
 	github.com/crate-crypto/go-kzg-4844 v0.7.0
 	github.com/davecgh/go-spew v1.1.1
-	github.com/ethereum/c-kzg-4844/bindings/go v0.0.0-20230126171313-363c7d7593b4
+	github.com/ethereum/c-kzg-4844 v0.4.0
 	github.com/google/gofuzz v1.2.0
 	github.com/holiman/uint256 v1.2.4
 	github.com/jedisct1/go-minisign v0.0.0-20230811132847-661be99b8267
